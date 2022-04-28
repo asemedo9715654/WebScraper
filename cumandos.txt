@@ -3,3 +3,6 @@ nvm install v0.10.31 - > instala o pacote antigo de node
 nvm use v0.10.31 -> mudar para versao
 
 
+https://www.youtube.com/watch?v=-3lqUHeZs_0
+
+
